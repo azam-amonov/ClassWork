@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWork", "ClassWork\ClassWork.csproj", "{9B07E71F-7978-4860-ADFA-536170567E3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassWork_1", "ClassWork_1", "{5F92F8A7-6971-4286-84A7-83BB42C4D11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWork_One", "ClassWork_One\ClassWork_One.csproj", "{5B843477-5A07-42F8-B04A-1F1AEE54EA60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dars_11", "Dars_11", "{797FE8E0-729E-48B4-BE44-764B1D082B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dars_11", "Dars_11\Dars_11.csproj", "{F04A8BDE-0BDC-4DFD-A64C-163CF0DD65D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B07E71F-7978-4860-ADFA-536170567E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B07E71F-7978-4860-ADFA-536170567E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B07E71F-7978-4860-ADFA-536170567E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B07E71F-7978-4860-ADFA-536170567E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B843477-5A07-42F8-B04A-1F1AEE54EA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B843477-5A07-42F8-B04A-1F1AEE54EA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B843477-5A07-42F8-B04A-1F1AEE54EA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B843477-5A07-42F8-B04A-1F1AEE54EA60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04A8BDE-0BDC-4DFD-A64C-163CF0DD65D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04A8BDE-0BDC-4DFD-A64C-163CF0DD65D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04A8BDE-0BDC-4DFD-A64C-163CF0DD65D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04A8BDE-0BDC-4DFD-A64C-163CF0DD65D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B843477-5A07-42F8-B04A-1F1AEE54EA60} = {5F92F8A7-6971-4286-84A7-83BB42C4D11B}
+		{F04A8BDE-0BDC-4DFD-A64C-163CF0DD65D1} = {797FE8E0-729E-48B4-BE44-764B1D082B12}
+	EndGlobalSection
+EndGlobal

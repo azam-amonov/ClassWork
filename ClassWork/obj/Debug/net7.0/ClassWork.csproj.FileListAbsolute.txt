@@ -1,0 +1,15 @@
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/bin/Debug/net7.0/ClassWork
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/bin/Debug/net7.0/ClassWork.deps.json
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/bin/Debug/net7.0/ClassWork.runtimeconfig.json
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/bin/Debug/net7.0/ClassWork.dll
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/bin/Debug/net7.0/ClassWork.pdb
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/obj/Debug/net7.0/ClassWork.csproj.AssemblyReference.cache
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/obj/Debug/net7.0/ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/obj/Debug/net7.0/ClassWork.AssemblyInfoInputs.cache
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/obj/Debug/net7.0/ClassWork.AssemblyInfo.cs
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/obj/Debug/net7.0/ClassWork.csproj.CoreCompileInputs.cache
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/obj/Debug/net7.0/ClassWork.dll
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/obj/Debug/net7.0/refint/ClassWork.dll
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/obj/Debug/net7.0/ClassWork.pdb
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/obj/Debug/net7.0/ClassWork.genruntimeconfig.cache
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork/obj/Debug/net7.0/ref/ClassWork.dll
