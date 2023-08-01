@@ -1,0 +1,15 @@
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/bin/Debug/net7.0/Dars_15
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/bin/Debug/net7.0/Dars_15.deps.json
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/bin/Debug/net7.0/Dars_15.runtimeconfig.json
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/bin/Debug/net7.0/Dars_15.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/bin/Debug/net7.0/Dars_15.pdb
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/obj/Debug/net7.0/Dars_15.csproj.AssemblyReference.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/obj/Debug/net7.0/Dars_15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/obj/Debug/net7.0/Dars_15.AssemblyInfoInputs.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/obj/Debug/net7.0/Dars_15.AssemblyInfo.cs
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/obj/Debug/net7.0/Dars_15.csproj.CoreCompileInputs.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/obj/Debug/net7.0/Dars_15.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/obj/Debug/net7.0/refint/Dars_15.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/obj/Debug/net7.0/Dars_15.pdb
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/obj/Debug/net7.0/Dars_15.genruntimeconfig.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_15/obj/Debug/net7.0/ref/Dars_15.dll
