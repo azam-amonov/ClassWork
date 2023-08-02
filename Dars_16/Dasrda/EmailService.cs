@@ -16,8 +16,8 @@ public class EmailService
     public void SendEmail(string receiverEmail, string user)
     {
         var mail = new MailMessage(CredentialAddress, receiverEmail);
-        mail.Subject = "Yil mazgisi nomzodi uchun";
-        mail.Body = $" {user}, siz yilning ";
+        mail.Subject = "";
+        mail.Body = $" {user},  ";
 
         var smtpClient = new SmtpClient("smtp.gmail.com", 587); // Replace with your SMTP server address and port
         smtpClient.Credentials = new NetworkCredential(CredentialAddress, CredentialPassword);
