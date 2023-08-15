@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "52H2kBQ4lBMeRk81yWxA6tZ55GHJV25PQ4Bo5jV7lb4KliPraKaMgMohCKpGui+qEfOT8FGfzxcN1JlYay2Qmg==",
+  "dgSpecHash": "rJp9/Uook8hecRq87n+vxHAYtqHifv7f1vTlK5VBK837ov4mgttKgOxbpAnA4SpkHP4HYF8k99g5ROe1IPZZWA==",
   "success": true,
   "projectFilePath": "/Users/azamamonov/RiderProjects/ClassWork/ClassWork/ClassWork.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/azamamonov/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

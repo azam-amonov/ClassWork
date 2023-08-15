@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7R6frxJgAdzDyG/R2xztzWRjglO4QHmcJldZtGhIoT0d1LpnBcL2sOC4HkDJ3XLIui94+yG/E+U8Yq24s6Mqvg==",
+  "dgSpecHash": "ppFF4Zud/A+fBsA9/pSvDfYsjFm/IQaekdKOdMqMZvrAR/AHQxIUmrPH0hfsbOvbNBz0sM7JOmc4APiGK3Lazw==",
   "success": true,
   "projectFilePath": "/Users/azamamonov/RiderProjects/ClassWork/Dars_25/Dars_25.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/azamamonov/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

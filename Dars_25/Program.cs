@@ -6,3 +6,4 @@ Console.WriteLine("Dars _ 25");
 RegistrationService registration = new RegistrationService();
 registration.Register("mail@darsda.com", "Dars_12");
 registration.Register("mail@darsda.com", "Dars_13");
+registration.Login("mail@darsda.com", "Dars_13");

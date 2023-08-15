@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JpcdLv3/os1fDXAxU1X2MWisWDGk0biWnr1j469sBSRQJTcaHYbY4lJqa1AtJU6/vM66fESp4qD+V5TbTMvq0w==",
+  "dgSpecHash": "GQaKawdC26EiQzlGneWnUvDgpJhhwjFxA+e93OUjQsBnop6Qfs3h57U/nzBfRSdIRz/LLU4o9c6slC5eQQD1VQ==",
   "success": true,
   "projectFilePath": "/Users/azamamonov/RiderProjects/ClassWork/Dras_22/Dras_22.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/azamamonov/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

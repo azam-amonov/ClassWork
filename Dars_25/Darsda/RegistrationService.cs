@@ -24,4 +24,18 @@ public class RegistrationService
            Console.WriteLine("This user is already registered!");
        }
     }
+
+    public void Login(string email, string password)
+    {
+        var verifiedUser = _users.FirstOrDefault(u => u.Email == email && u.Password == password);
+        
+        if (verifiedUser is not null && verifiedUser.IsEmailVerified)
+        {
+            Console.WriteLine("User verified!");
+        }
+        else
+        {
+            Console.WriteLine("User not verified!");
+        }
+    }
 }
