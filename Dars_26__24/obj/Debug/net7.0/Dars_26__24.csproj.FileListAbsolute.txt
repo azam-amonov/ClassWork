@@ -1,0 +1,17 @@
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/bin/Debug/net7.0/Dars_26__24
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/bin/Debug/net7.0/Dars_26__24.deps.json
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/bin/Debug/net7.0/Dars_26__24.runtimeconfig.json
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/bin/Debug/net7.0/Dars_26__24.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/bin/Debug/net7.0/Dars_26__24.pdb
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/Dars_26__24.csproj.AssemblyReference.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/Dars_26__24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/Dars_26__24.AssemblyInfoInputs.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/Dars_26__24.AssemblyInfo.cs
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/Dars_26__24.csproj.CoreCompileInputs.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/Dars_26__24.csproj.CopyComplete
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/Dars_26__24.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/refint/Dars_26__24.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/Dars_26__24.pdb
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/Dars_26__24.genruntimeconfig.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/obj/Debug/net7.0/ref/Dars_26__24.dll
