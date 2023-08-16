@@ -13,3 +13,5 @@
 /Users/azamamonov/RiderProjects/ClassWork/Dars_19/obj/Debug/net7.0/Dars_19.pdb
 /Users/azamamonov/RiderProjects/ClassWork/Dars_19/obj/Debug/net7.0/Dars_19.genruntimeconfig.cache
 /Users/azamamonov/RiderProjects/ClassWork/Dars_19/obj/Debug/net7.0/ref/Dars_19.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_19/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_19/obj/Debug/net7.0/Dars_19.csproj.CopyComplete

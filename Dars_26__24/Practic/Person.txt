@@ -1,17 +1,1 @@
-[
-  {
-    "Id": 1,
-    "FullName": "John",
-    "Age": 19
-  },
-  {
-    "Id": 2,
-    "FullName": "Annabel",
-    "Age": 18
-  },
-  {
-    "Id": 3,
-    "FullName": "Peter",
-    "Age": 21
-  }
-]
+"/Users/azamamonov/RiderProjects/ClassWork/Dars_26__24/Practic/PersonData.txt"

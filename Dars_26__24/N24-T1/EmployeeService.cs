@@ -31,7 +31,7 @@ public class EmployeeService
         _employees.Add(new Employee(20,"Alexander", "Adams", 990, 11));
         _employees.Add(new Employee(21,"Charlotte", "Hall", 1155, 8));
     }
-    public List<Employee> GetBySalary(int pageSize, int pageToken)
+    public List<Employee> GetBySalary(int pageSize, int pageToken = 1)
     {
             var response = _employees.Skip((pageToken - 1)* pageSize).Take(pageSize).ToList();
             var sortedBySalary = response.OrderByDescending(e => e.Salary).ToList();

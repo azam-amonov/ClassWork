@@ -13,3 +13,5 @@
 /Users/azamamonov/RiderProjects/ClassWork/ClassWork_One/obj/Debug/net7.0/ClassWork_One.pdb
 /Users/azamamonov/RiderProjects/ClassWork/ClassWork_One/obj/Debug/net7.0/ClassWork_One.genruntimeconfig.cache
 /Users/azamamonov/RiderProjects/ClassWork/ClassWork_One/obj/Debug/net7.0/ref/ClassWork_One.dll
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork_One/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/azamamonov/RiderProjects/ClassWork/ClassWork_One/obj/Debug/net7.0/ClassWork_One.csproj.CopyComplete
