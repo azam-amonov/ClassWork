@@ -1,0 +1,17 @@
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/bin/Debug/net7.0/Dras_22
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/bin/Debug/net7.0/Dras_22.deps.json
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/bin/Debug/net7.0/Dras_22.runtimeconfig.json
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/bin/Debug/net7.0/Dras_22.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/bin/Debug/net7.0/Dras_22.pdb
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/Dras_22.csproj.AssemblyReference.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/Dras_22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/Dras_22.AssemblyInfoInputs.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/Dras_22.AssemblyInfo.cs
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/Dras_22.csproj.CoreCompileInputs.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/Dras_22.csproj.CopyComplete
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/Dras_22.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/refint/Dras_22.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/Dras_22.pdb
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/Dras_22.genruntimeconfig.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dras_22/obj/Debug/net7.0/ref/Dras_22.dll

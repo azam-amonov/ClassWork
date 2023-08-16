@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbJoovggcodcL7C692f39VMxWrPeU71kQKPZGS5NTB0I849XlZVksP8nkxqJPRF778lMbNUVmZuJQZ2sxhrKYA==",
+  "success": true,
+  "projectFilePath": "/Users/azamamonov/RiderProjects/ClassWork/Dars_28_C26/Dars_28_C26.csproj",
+  "expectedPackageFiles": [
+    "/Users/azamamonov/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
