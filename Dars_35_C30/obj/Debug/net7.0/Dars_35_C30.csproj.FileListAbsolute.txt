@@ -1,0 +1,17 @@
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/bin/Debug/net7.0/Dars_35_C30
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/bin/Debug/net7.0/Dars_35_C30.deps.json
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/bin/Debug/net7.0/Dars_35_C30.runtimeconfig.json
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/bin/Debug/net7.0/Dars_35_C30.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/bin/Debug/net7.0/Dars_35_C30.pdb
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/Dars_35_C30.csproj.AssemblyReference.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/Dars_35_C30.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/Dars_35_C30.AssemblyInfoInputs.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/Dars_35_C30.AssemblyInfo.cs
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/Dars_35_C30.csproj.CoreCompileInputs.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/Dars_35_C30.csproj.CopyComplete
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/Dars_35_C30.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/refint/Dars_35_C30.dll
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/Dars_35_C30.pdb
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/Dars_35_C30.genruntimeconfig.cache
+/Users/azamamonov/RiderProjects/ClassWork/Dars_35_C30/obj/Debug/net7.0/ref/Dars_35_C30.dll
